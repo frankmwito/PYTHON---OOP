@@ -1,0 +1,1 @@
+# Polymorphism (duck typing)
